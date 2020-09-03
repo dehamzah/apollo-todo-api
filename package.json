@@ -1,0 +1,19 @@
+{
+  "name": "apollo-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "apollo-server-express": "^2.17.0",
+    "graphql-resolvers": "^0.4.2",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Learn GraphQL",
+        "isDone": true
+    },
+    {
+        "id": 2,
+        "title": "Drink coffee",
+        "isDone": false
+    }
+]
